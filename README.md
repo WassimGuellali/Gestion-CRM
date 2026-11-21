@@ -5,7 +5,7 @@ Application de gestion de la relation client (CRM) développée en **C#** avec u
 Le CRM permet à une entreprise de gérer ses **comptes (clients)**, leurs **contacts**, ses **opportunités commerciales** et le suivi des **activités** (appels, emails, réunions, notes). Les droits d'accès dépendent du rôle de l'utilisateur : **Admin**, **Commercial** ou **Lecteur**.
 ## Structure du dépôt
 
-- `Objectif2/` : conception et programmation orientée objet (classes C#)
+- `objectif 2/` : conception et programmation orientée objet (classes C#)
 - `Objectif3/` : intégration d'une base de données SQLite avec Entity Framework Core (Code First, migrations) et interfaces console CRUD
 - `docs/` : compte rendu et diagrammes de conception
 
